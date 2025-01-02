@@ -5,4 +5,4 @@ A simple Python library to check if a number is prime.
 ## Installation
 
 ```bash
-pip install prime_checker
+pip pip install unique-prime-checker==0.1.0
